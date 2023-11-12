@@ -1,0 +1,14 @@
+F:\Visual Code\C#\ByteBank\1-ByteBank\bin\Debug\net7.0\01-ByteBank.exe
+F:\Visual Code\C#\ByteBank\1-ByteBank\bin\Debug\net7.0\01-ByteBank.deps.json
+F:\Visual Code\C#\ByteBank\1-ByteBank\bin\Debug\net7.0\01-ByteBank.runtimeconfig.json
+F:\Visual Code\C#\ByteBank\1-ByteBank\bin\Debug\net7.0\01-ByteBank.dll
+F:\Visual Code\C#\ByteBank\1-ByteBank\bin\Debug\net7.0\01-ByteBank.pdb
+F:\Visual Code\C#\ByteBank\1-ByteBank\obj\Debug\net7.0\01-ByteBank.GeneratedMSBuildEditorConfig.editorconfig
+F:\Visual Code\C#\ByteBank\1-ByteBank\obj\Debug\net7.0\01-ByteBank.AssemblyInfoInputs.cache
+F:\Visual Code\C#\ByteBank\1-ByteBank\obj\Debug\net7.0\01-ByteBank.AssemblyInfo.cs
+F:\Visual Code\C#\ByteBank\1-ByteBank\obj\Debug\net7.0\01-ByteBank.csproj.CoreCompileInputs.cache
+F:\Visual Code\C#\ByteBank\1-ByteBank\obj\Debug\net7.0\01-ByteBank.dll
+F:\Visual Code\C#\ByteBank\1-ByteBank\obj\Debug\net7.0\refint\01-ByteBank.dll
+F:\Visual Code\C#\ByteBank\1-ByteBank\obj\Debug\net7.0\01-ByteBank.pdb
+F:\Visual Code\C#\ByteBank\1-ByteBank\obj\Debug\net7.0\01-ByteBank.genruntimeconfig.cache
+F:\Visual Code\C#\ByteBank\1-ByteBank\obj\Debug\net7.0\ref\01-ByteBank.dll
